@@ -1,6 +1,6 @@
 # Coreflux to OpenSearch Integration Script
 
-This Python script facilitates the integration between a Coreflux MQTT broker and an OpenSearch instance hosted on DigitalOcean. The script listens to MQTT messages from the Coreflux broker, processes the payload, and stores the data in the specified OpenSearch index. It also provides feedback on the success of data indexing.
+This script facilitates the integration between a Coreflux MQTT broker and an OpenSearch instance hosted on DigitalOcean. The script listens to MQTT messages from the Coreflux broker, processes the payload, and stores the data in the specified OpenSearch index. It also provides feedback on the success of data indexing.
 
 ## Prerequisites
 
