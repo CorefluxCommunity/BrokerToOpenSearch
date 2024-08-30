@@ -53,7 +53,7 @@ You can customize the following variables within the script to suit your specifi
 After configuring your environment variables and making any necessary customizations, you can run the script using the following command:
 
 ```bash
-python python mqttToOS.py
+python mqttToOS.py
 ```
 
 ### 5. Monitoring and Logging
